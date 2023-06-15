@@ -1,0 +1,18 @@
+#header{
+    background-color: rgb(159, 230, 230);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "Hubballi", cursive;
+} 
+h1, h2, h3{
+    text-transform: uppercase;
+}
+#nameTitle{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+#nameTitle h1, h2{
+    margin: 0px;
+}
